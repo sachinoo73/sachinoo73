@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Sachin
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C8DFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Open+Source+Enthusiast" alt="Typing SVG" />
